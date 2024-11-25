@@ -1,1 +1,1 @@
-# 模型文件在master分支中
+# The model file is in the master branch.
